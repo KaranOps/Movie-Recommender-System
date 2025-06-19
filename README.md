@@ -94,3 +94,13 @@ The recommender system is able to suggest similar movies based on content, givin
 * Ensure the dataset is accessible via the provided Drive link.
 * Run each cell sequentially to load data, preprocess, vectorize, and test the recommender function.
 
+## 🙋 About Me
+
+Hi! I’m **Karan** 👋 — a full-stack developer passionate about **AI**, **creativity tools**, and building solutions that solve real-world problems.
+
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/karanops93) or check out more of my work on [GitHub](https://github.com/KaranOps).
+
+---
+
+Made with ❤️
+
